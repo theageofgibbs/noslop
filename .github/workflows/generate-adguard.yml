@@ -1,0 +1,24 @@
+name: Generate uBlacklist filters
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Convert uBlock filters to adguard format
+        run: |
+          python3 .github/scripts/adguard.py list.txt adguard.txt
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add adguard.txt
+          git diff --cached --quiet || git commit -m "Auto-generate adguard filters"
+          git push
