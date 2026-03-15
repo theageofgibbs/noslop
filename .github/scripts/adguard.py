@@ -30,11 +30,6 @@ def convert(src: Path, dst: Path) -> None:
                 entries.append(result)
 
     with dst.open("w") as f:
-        #f.write(
-        #    "---\n"
-        #    "name: alvi-se/ai-ublock-blacklist\n"
-        #    "---\n\n"
-        #)
         f.write("\n".join(entries) + "\n")
 
     print(f"Converted {len(entries)} filters")
