@@ -192,6 +192,16 @@
 ||funwithlinux.net^$doc
 ||videogamer.com^$doc
 ||itsfoss.gitlab.io^$doc
+||hdauto.it^$doc
+||latuaauto.com^$doc
+||knifeup.com^$doc
+||beacleaner.com^$doc
+||kitchenpluse.com^$doc
+||thekitchenix.com^$doc
+||knifecarehub.com^$doc
+||cleaningbasic.com^$doc
+||walkermetalsmith.com^$doc
+||cleaney.com^$doc
 
 
 ! To PR makers: add above new, individual, entries
