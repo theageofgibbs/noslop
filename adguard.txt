@@ -164,7 +164,6 @@
 ||coderscratchpad.com^
 ||javaspring.net^
 ||funwithlinux.net^
-||videogamer.com^
 ||itsfoss.gitlab.io^
 ||hdauto.it^
 ||latuaauto.com^
@@ -179,6 +178,7 @@
 ||imigliore.com^
 ||theoriginarchive.com^
 ||biblia-viva.com^
+||cursorrules.org^
 ||9geishas.com.ar^
 ||aberturasalemanas.com.ar^
 ||ambrosibicicletas.com.ar^
@@ -2636,3 +2636,8 @@
 ||businessoutstanders.com^
 ||www.fontmirror.com^
 ||www.readability.com^
+||adventuregamers.com^
+||escapistmagazine.com^
+||www.gameshub.com^
+||revenuepass.com^
+||videogamer.com^
