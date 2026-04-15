@@ -190,7 +190,6 @@
 ||coderscratchpad.com^$doc
 ||javaspring.net^$doc
 ||funwithlinux.net^$doc
-||videogamer.com^$doc
 ||itsfoss.gitlab.io^$doc
 ||hdauto.it^$doc
 ||latuaauto.com^$doc
@@ -205,6 +204,7 @@
 ||imigliore.com^$doc
 ||theoriginarchive.com^$doc
 ||biblia-viva.com^$doc
+||cursorrules.org^$doc
 
 
 ! To PR makers: add above new, individual, entries
@@ -2683,7 +2683,6 @@
 ||mmsbee.co.uk^$doc
 ||celebvogue.com^$doc
 
-
 ! https://www.facebook.com/usman.warraich.136036/posts/pfbid02NvvbXTrZWysxJxhWRTn4qHvD7mFAk8yRpWUMFQmqLYppqU2dNmQwZX643w9Q9dEvl
 ||www.otsnews.co.uk^$doc
 ||newspatrolling.com^$doc
@@ -2717,3 +2716,10 @@
 ! See https://github.com/alvi-se/ai-ublock-blacklist/issues/31
 ! ||dailytrust.com^$doc
 ||www.readability.com^$doc
+
+! Clickout Media (https://aftermath.site/gameshub-clickout-media-seo-gambling-ai/)
+||adventuregamers.com^$doc
+||escapistmagazine.com^$doc
+||www.gameshub.com^$doc
+||revenuepass.com^$doc
+||videogamer.com^$doc
