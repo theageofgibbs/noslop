@@ -2,7 +2,7 @@ name: Generate uBlacklist filters
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - 'list.txt'
 #  workflow_dispatch:
