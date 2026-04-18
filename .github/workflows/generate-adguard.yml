@@ -5,7 +5,7 @@ on:
     branches: [master]
     paths:
       - 'list.txt'
-  workflow_dispatch:
+#  workflow_dispatch:
 
 jobs:
   generate:
