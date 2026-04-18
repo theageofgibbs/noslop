@@ -1,5 +1,5 @@
 ! Title: AI uBlock Blacklist
-! Expires: 1 day
+! Expires: 2 days
 ! Homepage: https://github.com/alvi-se/ai-ublock-blacklist
 
 ! Randomly found websites
