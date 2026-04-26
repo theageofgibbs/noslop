@@ -1,7 +1,9 @@
 name: Generate uBlacklist filters
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "7 3 * * *"
+#  workflow_dispatch:
 #  push:
 #    branches: [main]
 #    paths:
