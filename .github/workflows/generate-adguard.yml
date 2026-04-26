@@ -23,7 +23,7 @@ jobs:
 
       - name: Exit workflow if list.txt is unchanged
         run: |
-          git diff --cached --quiet && exit 0
+          git diff --cached --quiet && exit
 
       - name: Convert uBlock filters to adguard format
         run: |
