@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add adguard.txt
-          git diff --cached --quiet || git commit -m "Auto-generate adguard filters"
+          git add list.txt adguard.txt
+          git diff --cached --quiet || git commit -m "Update list from upstream and auto-generate adguard filters"
           git push
