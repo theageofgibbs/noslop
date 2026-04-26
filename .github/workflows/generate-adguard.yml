@@ -17,7 +17,7 @@ jobs:
 
       - name: Get Latest list.txt from github.com/alvi-se/ai-ublock-blacklist
         run: |
-          wget https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt
+          rm list.txt && wget https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt
 
       - name: Convert uBlock filters to adguard format
         run: |
