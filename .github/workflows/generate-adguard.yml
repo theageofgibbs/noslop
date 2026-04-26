@@ -1,11 +1,11 @@
 name: Generate uBlacklist filters
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'list.txt'
-#  workflow_dispatch:
+  workflow_dispatch:
+#  push:
+#    branches: [main]
+#    paths:
+#      - 'list.txt'
 
 jobs:
   generate:
@@ -14,6 +14,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+
+      - name: Get Latest list.txt from github.com/alvi-se/ai-ublock-blacklist
+        run: |
+          wget https://raw.githubusercontent.com/alvi-se/ai-ublock-blacklist/master/list.txt
 
       - name: Convert uBlock filters to adguard format
         run: |
