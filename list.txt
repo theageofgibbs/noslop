@@ -209,6 +209,7 @@
 ||cursorrules.org^$doc
 ||ejemplo.com.ar^$doc
 ||dotlinux.net^$doc
+||medium.com/@ooikrish13^$doc
 
 
 ! To PR makers: add above new, individual, entries
@@ -2738,3 +2739,14 @@
 ! westdary@gmail.com
 ||dcinl.com^$doc
 ||definicionwiki.com^$doc
+
+! Verypdf sites
+||veryutils.com^$doc
+||verypdf.com^$doc
+||verydoc.com^$doc
+||verydrm.com^$doc
+||eepdf.com^$doc
+||imagepdf.com^$doc
+||impdf.com^$doc
+||undopdf.com^$doc
+||crackpdf.com^$doc
