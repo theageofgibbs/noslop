@@ -181,6 +181,7 @@
 ||cursorrules.org^
 ||ejemplo.com.ar^
 ||dotlinux.net^
+||tecnobits.com^
 ||9geishas.com.ar^
 ||aberturasalemanas.com.ar^
 ||ambrosibicicletas.com.ar^
