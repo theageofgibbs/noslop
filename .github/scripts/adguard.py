@@ -4,7 +4,7 @@ import re
 import sys
 from pathlib import Path
 
-PATTERN = re.compile(r"^(\|\|.+?\^)\$doc$")
+PATTERN = re.compile(r"^(\|\|.+?\^)\$doc")
 
 
 def convert_line(line: str) -> str | None:
