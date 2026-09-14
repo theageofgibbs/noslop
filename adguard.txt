@@ -184,6 +184,7 @@
 ||unanswered.io^
 ||runtimewire.com^
 ||electronics.alibaba.com^
+||hanoverinstitute.com^
 ||techsslaash.com^
 ||arcarrierpoint.net^
 ||techclash.org^
