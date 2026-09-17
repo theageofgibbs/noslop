@@ -185,6 +185,7 @@
 ||runtimewire.com^
 ||electronics.alibaba.com^
 ||hanoverinstitute.com^
+||lidarr.org^
 ||techsslaash.com^
 ||arcarrierpoint.net^
 ||techclash.org^
