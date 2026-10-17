@@ -189,6 +189,7 @@
 ||linuxsecurity.com^
 ||aviary.pl^
 ||bougetafrance.fr^
+||ffmpeg-api.com^
 ||salivity.github.io^
 ||techlekh.com^
 ||www.otsnews.co.uk^
@@ -2588,6 +2589,13 @@
 ||tech2sites.com^
 ||editorialedition.com^
 ||hmnshudhmn24.medium.com^
+||grainedegateau.com^
+||foodandcuisine.com^
+||recettes-de-cake.fr^
+||chocoolat.fr^
+||lepourquoiducomment.fr^
+||evier-cuisine.net^
+||d-sarron.com^
 ||9geishas.com.ar^
 ||aberturasalemanas.com.ar^
 ||ambrosibicicletas.com.ar^
